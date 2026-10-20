@@ -55,7 +55,5 @@ Synthetic data intentionally makes Berlin slower. The difference is a demonstrat
 For a real use case, first confirm the source contract and timezone policy, assess missingness by hub/day, then investigate staffing, demand and routing with comparable order groups.
 
 ## Optional Power BI extension
-Import `outputs/clean_orders.csv`, `outputs/daily_trends.csv` and `outputs/operations_kpis.csv`. Use the provided [build guide and DAX](docs/POWER_BI.md). **No Power BI `.pbix` file is included or claimed.** The HTML report is already runnable.
+Import `outputs/clean_orders.csv`, `outputs/daily_trends.csv` and `outputs/operations_kpis.csv`. Use the provided [build guide and DAX](docs/POWER_BI.md).
 
-## Interview walkthrough
-Explain why a cancelled order is excluded from the on-time denominator, why both duplicate rows are rejected, how quarantine can introduce bias, and why a simulated hub gap does not prove a cause. Then change a quality rule and rerun the tests and pipeline.
