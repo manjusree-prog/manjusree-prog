@@ -1,21 +1,21 @@
 # Hi, I'm Teja Manjusree Koduru
 
-Big Data & Business Analytics graduate based in Essen, Germany, with a background in quality assurance and data validation.
+Data Analyst in Essen, Germany · M.Sc. Big Data & Business Analytics (grade 1.9) · 5 years in software quality assurance.
+I check the data before I trust the result.
+
+**[Portfolio](https://manjusree-prog.github.io)** · **[LinkedIn](https://www.linkedin.com/in/teja-manjusree-25856b138)** · **[CV (PDF)](https://manjusree-prog.github.io/Teja-Koduru-CV.pdf)**
 
 ## Skills
-SQL · Python · Excel · Power BI · Data Cleaning · Data Quality · KPI Reporting
+SQL (CTEs, window functions) · Python (pandas, SciPy, scikit-learn) · Power BI (DAX) · Excel · Data Quality · KPI Reporting · Root-Cause Analysis
 
-## Featured project
-### [Operations Analytics & Data Quality](https://github.com/manjusree-prog/operations-data-quality-analytics)
+## Featured projects
 
-A portfolio project using fictional delivery data to demonstrate:
-- Python data validation and an audit trail
-- SQL analysis of delivery performance
-- Operational KPI reporting and a visual dashboard
-- Automated tests with GitHub Actions
+| Project | What it shows | Links |
+|---|---|---|
+| **E-commerce delivery analytics (Olist, 96,000 orders)** | SQL data-quality checks and quarantine table, KPI queries, statistical tests, interactive dashboard, Power BI star schema. Late orders get 63% 1–2 star reviews vs 10% on time. | [Dashboard](https://manjusree-prog.github.io/olist-delivery-analytics/) · [Code](https://github.com/manjusree-prog/manjusree-prog.github.io/tree/main/olist-delivery-analytics) |
+| **Operations data quality & KPI pipeline** | Python/SQL validation with audit trail, hub KPIs, unit tests, GitHub Actions | [Code](https://github.com/manjusree-prog/operations-data-quality-analytics) |
+| **Master's thesis: airline customer satisfaction** | 7,555 reviews + 570,550 flights; sentiment features cut misclassifications by 20% | [Code](https://github.com/manjusree-prog/airline-customer-satisfaction-analytics) |
+| **Bank marketing targeting** | Calling the top 20% reaches 66% of subscribers (3.3x lift) | [Code](https://github.com/manjusree-prog/bank-marketing-subscription-prediction) |
 
-## Academic work
-My master's thesis explored airline customer reviews and flight operations using sentiment analysis and predictive models.
-
-## Roles of interest
-Junior Data Analyst · Data Quality Analyst · Reporting Analyst · Operations Analyst
+## Open to
+Junior Data Analyst · Data Quality Analyst · Reporting / BI Analyst · Operations Analyst · Business Analyst — NRW or remote in Germany
